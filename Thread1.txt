@@ -1,0 +1,5 @@
+class MyThread extends Thread{
+}
+class Thread1{
+
+}
